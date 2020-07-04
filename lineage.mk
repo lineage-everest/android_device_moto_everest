@@ -23,7 +23,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit from hardware-specific part of the product configuration
 $(call inherit-product, device/moto/everest/device.mk)
 
-PRODUCT_NAME := cm_everest
+PRODUCT_NAME := lineage_everest
 PRODUCT_DEVICE := everest
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := Xoom 3G
